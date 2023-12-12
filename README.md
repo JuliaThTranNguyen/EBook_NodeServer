@@ -74,4 +74,4 @@ The API allows users to perform CRUD operations on books, authors, genres and us
 
 ## Deployment
 
-Access this project live [here](https://library.egorushque.space).
+Access this project live [here](https://nodejs-server-thjulia.vercel.app/api/v1/books).
